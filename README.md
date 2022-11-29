@@ -5,7 +5,7 @@ API for Cinema Service and store data in DB. It provides users, movies, genres, 
 ### Setup Django project:  
 Run commands in terminal:
 ```
-git clone https://github.com/skrypka-dmytro/cinema-service.git
+git clone git@github.com:ketstap162/cinema-service-api.git
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
