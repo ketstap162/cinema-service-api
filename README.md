@@ -16,7 +16,8 @@ set DB_PASSWORD=<your db user password>
 set SECRET_KEY=<your secret key>
 python manage.py migrate
 ```
-#### Start Django project: `python manage.py runserver 7000` (with 7000 port)
+#### Start Django project: 
+Use command `python manage.py runserver 7000` (with 7000 port) in terminal
 
 ### Build Docker container:
 Run commands in terminal:
